@@ -15,7 +15,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 ## Verificação
 
 - O que se deseja descobrir ou compreender? `[meios para combater fraudes]`
-- Qual é o objeto da pergunta? `[se aprofun]`
+- Qual é o objeto da pergunta? `[exclusão digital]`
 - Qual é o contexto ou recorte? `[preencher]`
 - A pergunta pode ser respondida por artigos científicos? `[Sim/Não. Justifique.]`
 - Por que essa pergunta é relevante? `[preencher]`
