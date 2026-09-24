@@ -6,16 +6,16 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`[copie o tema da etapa anterior]`
+`[impacto social da tecnologia]`
 
 ## Pergunta de pesquisa
 
-`[Escreva uma única pergunta.]`
+`[Porque é essencial?.]`
 
 ## Verificação
 
-- O que se deseja descobrir ou compreender? `[preencher]`
-- Qual é o objeto da pergunta? `[preencher]`
+- O que se deseja descobrir ou compreender? `[meios para combater fraudes]`
+- Qual é o objeto da pergunta? `[se aprofun]`
 - Qual é o contexto ou recorte? `[preencher]`
 - A pergunta pode ser respondida por artigos científicos? `[Sim/Não. Justifique.]`
 - Por que essa pergunta é relevante? `[preencher]`
