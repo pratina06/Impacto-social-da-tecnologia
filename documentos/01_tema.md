@@ -54,4 +54,4 @@ Tema delimitado e justificativa.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[andre]` | `[preencher]` |
+| `[Andre]` | `[modulo 1]` |
