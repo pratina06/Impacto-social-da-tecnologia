@@ -16,9 +16,9 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 - O que se deseja descobrir ou compreender? `[meios para combater fraudes]`
 - Qual é o objeto da pergunta? `[exclusão digital]`
-- Qual é o contexto ou recorte? `[preencher]`
-- A pergunta pode ser respondida por artigos científicos? `[Sim/Não. Justifique.]`
-- Por que essa pergunta é relevante? `[preencher]`
+- Qual é o contexto ou recorte? `[Desigualdade no uso da internet e dos computadores]`
+- A pergunta pode ser respondida por artigos científicos? `[Sim.]`
+- Por que essa pergunta é relevante? `[pois descobrimos a importancia do combate às fraudes]`
 
 ## Produto da etapa
 
@@ -26,14 +26,14 @@ Pergunta de pesquisa aprovada.
 
 ## Checklist
 
-- [ ] Está escrita em forma de pergunta.
-- [ ] É clara e objetiva.
-- [ ] Está alinhada ao tema.
-- [ ] Pode ser respondida por revisão bibliográfica.
-- [ ] Não exige experimento que não será realizado.
+- [sim ] Está escrita em forma de pergunta.
+- [sim ] É clara e objetiva.
+- [sim ] Está alinhada ao tema.
+- [sim ] Pode ser respondida por revisão bibliográfica.
+- [não ] Não exige experimento que não será realizado.
 
 ## Contribuições
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[eduardo]` | `[módulo 2]` |
