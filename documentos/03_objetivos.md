@@ -6,34 +6,34 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
+`[[Porque é essencial?]`
 
 ## Objetivo geral
 
-`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
+`[Analisar a importância da segurança da informação contra fraudes é fundamental para proteger o patrimônio, a reputação e a continuidade operacional de qualquer organização na era digital. Com o avanço das tecnologias e a sofisticação dos crimes cibernéticos, a implementação de barreiras digitais robustas deixou de ser um diferencial técnico e passou a ser uma estratégia vital de sobrevivência no mercado..]`
 
 ## Objetivos específicos
 
-1. `[preencher]`
-2. `[preencher]`
-3. `[preencher]`
+1. `[Identificar as vulnerabilidades]`
+2. `[Implementar ferramentas de autenticação]`
+3. `[Monitorar dados em tempo real]`
 4. `[opcional]`
 
 ## Quadro de alinhamento
 
 | Elemento | Texto |
 |---|---|
-| Problema | `[preencher]` |
-| Objetivo geral | `[preencher]` |
-| Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
+| Problema | `[fraudes]` |
+| Objetivo geral | `[prevenir as fraudes]` |
+| Resultado esperado | `[ a consolidação das estratégias de mitigação de riscos, demonstrando de forma clara como as barreiras tecnológicas e a cultura de segurança neutralizam as fraudes digitais]` |
 
 ## Produto da etapa
 
-Um objetivo geral e de três a quatro objetivos específicos.
+o objetivo geral define o propósito principal da pesquisa, enquanto os objetivos específicos funcionam como os passos necessários para alcançá-lo
 
 ## Checklist
 
-- [ ] Os objetivos começam com verbos no infinitivo.
-- [ ] O objetivo geral responde ao problema.
-- [ ] Os objetivos específicos detalham o objetivo geral.
-- [ ] Os objetivos são compatíveis com uma revisão bibliográfica.
+- [sim ] Os objetivos começam com verbos no infinitivo.
+- [sim ] O objetivo geral responde ao problema.
+- [sim ] Os objetivos específicos detalham o objetivo geral.
+- [ sim] Os objetivos são compatíveis com uma revisão bibliográfica.
