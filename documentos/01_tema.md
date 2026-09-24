@@ -14,11 +14,11 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Área geral
 
-`[Qual é a área ampla de interesse?]`
+`[Exclusão e Desigualdade Digital:?]`
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+`[ Importancia da segurança da infromação contra fraudes .]`
 
 ### Do tema amplo ao específico
 
@@ -30,7 +30,8 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+`[O tema é importante porque aborda a importancia da segurança da informação em previnir que pessoas tenham suas informações pessoais importantes vazadas, evita prejuízos econômicos graves, danos irreversíveis com a reputação da marca como aconteceu com o Nubank. Diante desse cenário, adotar políticas rígidas de cibersegurança e promover a conscientização constante dos usuários deixaram de ser meros diferenciais técnicos. 
+Em um mundo cada vez mais conectado, proteger os dados é o único caminho viável para garantir a sustentabilidade das empresas e a integridade da sociedade na era digital.]`
 
 ### Viabilidade
 
