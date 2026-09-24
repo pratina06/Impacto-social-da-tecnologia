@@ -6,9 +6,9 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ## Identificação
 
-- Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
+- Grupo: `[tropa do arranca]`
+- Integrantes: `[Eduardo Henrique, André Henrique, Felipe Freitas]`
+- Data: `[23/09/2026]`
 
 ## Preenchimento
 
@@ -22,11 +22,11 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
-- Objeto estudado: `[preencher]`
-- Contexto ou aplicação: `[preencher]`
-- Aspecto que será analisado: `[preencher]`
-- O que ficará fora do estudo: `[preencher]`
+- Tema amplo: `[Impacto social da tecnologia]`
+- Objeto estudado: `[exclusão digital ]`
+- Contexto ou aplicação: `[Desigualdade no uso da internet e dos computadores]`
+- Aspecto que será analisado: `[Desigualdade]`
+- O que ficará fora do estudo: `[]`
 
 ### Justificativa
 
@@ -34,9 +34,9 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `[Sim/Não/Parcialmente]`
-- O tema pode ser estudado no prazo? `[Sim/Não]`
-- O grupo possui acesso às fontes necessárias? `[Sim/Não]`
+- Há artigos científicos disponíveis? `[Sim]`
+- O tema pode ser estudado no prazo? `[Sim]`
+- O grupo possui acesso às fontes necessárias? `[Sim]`
 
 ## Produto da etapa
 
@@ -44,14 +44,14 @@ Tema delimitado e justificativa.
 
 ## Checklist
 
-- [ ] O tema é específico.
-- [ ] O tema é relevante.
-- [ ] O tema é viável.
-- [ ] O recorte está claro.
-- [ ] O tema foi validado pelo professor.
+- [sim] O tema é específico.
+- [sim] O tema é relevante.
+- [sim] O tema é viável.
+- [sim] O recorte está claro.
+- [sim] O tema foi validado pelo professor.
 
 ## Contribuições
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[andre]` | `[preencher]` |
