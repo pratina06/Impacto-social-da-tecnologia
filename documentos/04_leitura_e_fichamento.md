@@ -9,7 +9,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 ## Identificação do artigo
 
 * Referência completa: `[preencher]`
-* DOI ou URL: `[preencher]`
+* DOI ou URL: `[https://www.mlsjournals.com/Project-Design-Management/article/view/431/2739]`
 * Base de origem: `[preencher]`
 * Leitor responsável: `[preencher]`
 * Data da leitura: `[dd/mm/aaaa]`
