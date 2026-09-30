@@ -1,48 +1,63 @@
-Etapa 4 Leitura e fichamento
-Solicitação
-Preencha uma cópia deste template para cada artigo selecionado.
+# Etapa 4 Leitura e fichamento
+
+## Solicitação
+
+Preencha **uma cópia** deste template **para cada artigo** selecionado.
 
 Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação entre 2021 a 2026.
 
-Identificação do artigo
-Referência completa: [preencher]
-DOI ou URL: [preencher]
-Base de origem: [preencher]
-Leitor responsável: [preencher]
-Data da leitura: [dd/mm/aaaa]
-Fichamento
-Problema investigado
-[preencher]
+## Identificação do artigo
 
-Objetivo do estudo
-[preencher]
+* Referência completa: `[preencher]`
+* DOI ou URL: `[preencher]`
+* Base de origem: `[preencher]`
+* Leitor responsável: `[preencher]`
+* Data da leitura: `[dd/mm/aaaa]`
 
-Método utilizado
-[preencher]
+## Fichamento
 
-Contexto, amostra ou dados
-[preencher]
+### Problema investigado
 
-Principais resultados
-[preencher]
+`[preencher]`
 
-Limitações apresentadas
-[preencher]
+### Objetivo do estudo
 
-Contribuição para o nosso artigo
-[Explique como este estudo ajuda a responder à pergunta da revisão.]
+`[preencher]`
 
-Comentário crítico
-[Registre forças, fragilidades, concordâncias ou divergências.]
+### Método utilizado
 
-Citação literal opcional
-[trecho exato]
+`[preencher]`
 
-Página: [número]
+### Contexto, amostra ou dados
 
-Checklist
- O artigo foi lido além do resumo.
- O método e os resultados foram identificados.
- As limitações foram registradas.
- A conexão com o tema foi explicada.
- Toda citação literal contém página.
+`[preencher]`
+
+### Principais resultados
+
+`[preencher]`
+
+### Limitações apresentadas
+
+`[preencher]`
+
+### Contribuição para o nosso artigo
+
+`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+
+### Comentário crítico
+
+`[Registre forças, fragilidades, concordâncias ou divergências.]`
+
+### Citação literal opcional
+
+> `[trecho exato]`
+
+Página: `[número]`
+
+## Checklist
+
+* [ ] O artigo foi lido além do resumo.
+* [ ] O método e os resultados foram identificados.
+* [ ] As limitações foram registradas.
+* [ ] A conexão com o tema foi explicada.
+* [ ] Toda citação literal contém página.
